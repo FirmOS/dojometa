@@ -1,0 +1,24 @@
+[submodule "dojo"]
+	path = dojo
+	url = https://github.com/FirmOS/dojo.git
+[submodule "dijit"]
+	path = dijit
+	url = https://github.com/FirmOS/dijit.git
+[submodule "dojox"]
+	path = dojox
+	url = https://github.com/FirmOS/dojox.git
+[submodule "put-selector"]
+	path = put-selector
+	url = https://github.com/FirmOS/put-selector.git
+[submodule "xstyle"]
+	path = xstyle
+	url = https://github.com/FirmOS/xstyle.git
+[submodule "util"]
+	path = util
+	url = https://github.com/FirmOS/util.git
+[submodule "dstore"]
+	path = dstore
+	url = https://github.com/FirmOS/dstore
+[submodule "dgrid"]
+	path = dgrid
+	url = https://github.com/FirmOS/dgrid.git
